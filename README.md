@@ -1,2 +1,2 @@
 # ruby_code
-Projects coded in ruby code
+Projects coded in ruby language
